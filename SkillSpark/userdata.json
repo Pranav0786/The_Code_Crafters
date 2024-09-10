@@ -1,0 +1,48 @@
+{
+  "Shri": {
+    "compete": [true, false, true, false, true, false, true, true, true],
+    "password": "12345678",
+    "practice": {
+      "": { "Medium": { "score": [0], "solved": ["set1"] } },
+      "skill1": {
+        "Easy": {
+          "score": [5, 4, 0, 1, 0, 1, 5, 2],
+          "solved": [
+            "set1",
+            "set2",
+            "set3",
+            "set4",
+            "set5",
+            "set6",
+            "set7",
+            "set8"
+          ]
+        },
+        "Hard": { "score": [2, 1], "solved": ["set0", "set1"] },
+        "Medium": { "score": [3, 2], "solved": ["set0", "set1"] }
+      },
+      "skill2": {
+        "Easy": { "score": [5, 4], "solved": ["set0", "set1"] },
+        "Hard": { "score": [2, 1], "solved": ["set0", "set1"] },
+        "Medium": { "score": [3, 2], "solved": ["set0", "set1"] }
+      },
+      "skill3": {
+        "Easy": { "score": [5, 4], "solved": ["set0", "set1"] },
+        "Hard": { "score": [2, 1], "solved": ["set0", "set1"] },
+        "Medium": { "score": [3, 2], "solved": ["set0", "set1"] }
+      },
+      "skill4": {
+        "Easy": { "score": [5, 4], "solved": ["set0", "set1"] },
+        "Hard": { "score": [2, 1], "solved": ["set0", "set1"] },
+        "Medium": { "score": [3, 2], "solved": ["set0", "set1"] }
+      },
+      "skill5": {
+        "Easy": { "score": [5, 4], "solved": ["set0", "set1"] },
+        "Hard": { "score": [2, 1], "solved": ["set0", "set1"] },
+        "Medium": { "score": [3, 2], "solved": ["set0", "set1"] }
+      }
+    }
+  },
+  "Varad": { "compete": [], "password": "12345689", "practice": {} },
+  "var": { "compete": [true, false, true, true, true, true] }
+}

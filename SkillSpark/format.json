@@ -1,0 +1,1003 @@
+{
+  "skill1": {
+    "Easy": {
+      "set1": {
+        "answers": {
+          "a0": "7/8",
+          "a1": "0.06",
+          "a2": "3.876",
+          "a3": "2",
+          "a4": "24"
+        },
+        "questions": {
+          "k0": "1.Three unbiased coins are tossed. What is the probability of getting at most two heads",
+          "k1": "2.The cube root of 0.000216 is",
+          "k2": "3.If log 2 = 0.3010 and log 3 = 0.4771, the value of log5 512 is:",
+          "k3": "4.Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+          "k4": "5.Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Not even close baby ! Technoblade never dies",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set5": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Hard": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Medium": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    }
+  },
+  "skill2": {
+    "Easy": {
+      "set1": {
+        "answers": {
+          "a0": "7/8",
+          "a1": "0.06",
+          "a2": "3.876",
+          "a3": "2",
+          "a4": "24"
+        },
+        "questions": {
+          "k0": "1.Three unbiased coins are tossed. What is the probability of getting at most two heads",
+          "k1": "2.The cube root of 0.000216 is",
+          "k2": "3.If log 2 = 0.3010 and log 3 = 0.4771, the value of log5 512 is:",
+          "k3": "4.Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+          "k4": "5.Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set5": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Hard": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Medium": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    }
+  },
+  "skill3": {
+    "Easy": {
+      "set1": {
+        "answers": {
+          "a0": "7/8",
+          "a1": "0.06",
+          "a2": "3.876",
+          "a3": "2",
+          "a4": "24"
+        },
+        "questions": {
+          "k0": "1.Three unbiased coins are tossed. What is the probability of getting at most two heads",
+          "k1": "2.The cube root of 0.000216 is",
+          "k2": "3.If log 2 = 0.3010 and log 3 = 0.4771, the value of log5 512 is:",
+          "k3": "4.Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+          "k4": "5.Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set5": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Hard": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Medium": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    }
+  },
+  "skill4": {
+    "Easy": {
+      "set1": {
+        "answers": {
+          "a0": "7/8",
+          "a1": "0.06",
+          "a2": "3.876",
+          "a3": "2",
+          "a4": "24"
+        },
+        "questions": {
+          "k0": "1.Three unbiased coins are tossed. What is the probability of getting at most two heads",
+          "k1": "2.The cube root of 0.000216 is",
+          "k2": "3.If log 2 = 0.3010 and log 3 = 0.4771, the value of log5 512 is:",
+          "k3": "4.Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+          "k4": "5.Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set5": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Hard": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Medium": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    }
+  },
+  "skill5": {
+    "Easy": {
+      "set1": {
+        "answers": {
+          "a0": "7/8",
+          "a1": "0.06",
+          "a2": "3.876",
+          "a3": "2",
+          "a4": "24"
+        },
+        "questions": {
+          "k0": "1.Three unbiased coins are tossed. What is the probability of getting at most two heads",
+          "k1": "2.The cube root of 0.000216 is",
+          "k2": "3.If log 2 = 0.3010 and log 3 = 0.4771, the value of log5 512 is:",
+          "k3": "4.Father is aged three times more than his son Ronit. After 8 years, he would be two and a half times of Ronit's age. After further 8 years, how many times would he be of Ronit's age?",
+          "k4": "5.Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand's present age in years?"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set5": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Hard": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    },
+    "Medium": {
+      "set1": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set2": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set3": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      },
+      "set4": {
+        "answers": {
+          "a0": "Ans1",
+          "a1": "Ans2",
+          "a2": "Ans3",
+          "a3": "Ans4",
+          "a4": "Ans5"
+        },
+        "questions": {
+          "k0": "Que1",
+          "k1": "Que2",
+          "k2": "Que3",
+          "k3": "Que4",
+          "k4": "Que5"
+        }
+      }
+    }
+  },
+  "var": { "compete": [true, true, true] }
+}
